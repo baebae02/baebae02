@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=744CF3&height=300&section=header&text=SeoHyeon&fontSize=90)
-### I'M HYEON 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:744CF3,100:F1C34C&height=230&section=header&text=SeoHyeon&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+### Welcome 👋
 
 <p align="center">🇰🇷</p>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp p 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
